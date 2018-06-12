@@ -1,0 +1,8 @@
+git config-global user.name "Devam Makkar"
+git config-global user.email "makkar.devam@gmail.com"
+git init
+git status
+git commit-m"hello makkar sahb"
+git log.
+git remote add origin
+git push origin master 
